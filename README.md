@@ -1,5 +1,5 @@
 ## 💻 Sobre
-Foi um curso básico que eu fiz com alguns exercícios sobre JAVA.
+É um curso básico que eu fiz com alguns exercícios sobre JAVA.
 
 ---
 
