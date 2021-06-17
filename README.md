@@ -4,7 +4,7 @@
 ---
 
 ## 🛠️ Tecnologias
-Abaixo são as seguintes ferramentas que foram utilizadas:
+Abaixo são as ferramentas que foram utilizadas:
 
 * [Java](https://www.java.com/pt-BR/)
 * * [Eclipse](https://www.eclipse.org/downloads/)
